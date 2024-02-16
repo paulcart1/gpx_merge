@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OS Maps - Web" xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+xmlns:gs="http://www.topografix.com/GPX/gpx_style/0/2"
+xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1"
+xmlns:os="https://ordnancesurvey.co.uk/public/schema/route/0.1">
+    <metadata>
+        <name>George, Dillon, Oren Saturday</name>
+        <desc></desc>
+        <bounds minlat="50.8110200" minlon="-1.6261270" maxlat="50.8860740" maxlon="-1.5663380"/>
+        <extensions>
+            <os:version>2.0</os:version>
+            <os:point lat="50.8860740" lon="-1.6209940" type="start"/>
+            <os:point lat="50.8110200" lon="-1.5691110" type="end"/>
+            <os:source id="">13</os:source>
+            <os:activity>ON_FOOT_WALKING</os:activity>
+            <os:difficulty>UNKNOWN</os:difficulty>
+            <os:paths/>
+            <os:distance>12812.2348373</os:distance>
+            <os:elevation_ascent>74.9300000</os:elevation_ascent>
+        </extensions>
+    </metadata>
+    <wpt lat="50.8860740" lon="-1.6209940"/>
+    <wpt lat="50.8852670" lon="-1.6190890"/>
+    <wpt lat="50.8846080" lon="-1.6185110"/>
+    <wpt lat="50.8838460" lon="-1.6182260"/>
+    <wpt lat="50.8828740" lon="-1.6183580"/>
+    <wpt lat="50.8815580" lon="-1.6176610"/>
+    <wpt lat="50.8791410" lon="-1.6179300"/>
+    <wpt lat="50.8772010" lon="-1.6192780"/>
+    <wpt lat="50.8761230" lon="-1.6192030"/>
+    <wpt lat="50.8754720" lon="-1.6199140"/>
+    <wpt lat="50.8740030" lon="-1.6205500"/>
+    <wpt lat="50.8720370" lon="-1.6221480"/>
+    <wpt lat="50.8715380" lon="-1.6222770"/>
+    <wpt lat="50.8692180" lon="-1.6202550"/>
+    <wpt lat="50.8692110" lon="-1.6261270"/>
+    <wpt lat="50.8680830" lon="-1.6255010"/>
+    <wpt lat="50.8675260" lon="-1.6237150"/>
+    <wpt lat="50.8664420" lon="-1.6217660"/>
+    <wpt lat="50.8652020" lon="-1.6204430"/>
+    <wpt lat="50.8640950" lon="-1.6183380"/>
+    <wpt lat="50.8628820" lon="-1.6172230"/>
+    <wpt lat="50.8606880" lon="-1.6136490"/>
+    <wpt lat="50.8581820" lon="-1.6109620"/>
+    <wpt lat="50.8567970" lon="-1.6097100"/>
+    <wpt lat="50.8546930" lon="-1.6094770"/>
+    <wpt lat="50.8532450" lon="-1.6090730"/>
+    <wpt lat="50.8514540" lon="-1.6080880"/>
+    <wpt lat="50.8502910" lon="-1.6063900"/>
+    <wpt lat="50.8478130" lon="-1.6044530"/>
+    <wpt lat="50.8463220" lon="-1.6037520"/>
+    <wpt lat="50.8443170" lon="-1.6017690"/>
+    <wpt lat="50.8433390" lon="-1.6001530"/>
+    <wpt lat="50.8421200" lon="-1.5973730"/>
+    <wpt lat="50.8402580" lon="-1.5943510"/>
+    <wpt lat="50.8394890" lon="-1.5925660"/>
+    <wpt lat="50.8362390" lon="-1.5883460"/>
+    <wpt lat="50.8354770" lon="-1.5884770"/>
+    <wpt lat="50.8339030" lon="-1.5905270"/>
+    <wpt lat="50.8325960" lon="-1.5930370"/>
+    <wpt lat="50.8312930" lon="-1.5964640"/>
+    <wpt lat="50.8308730" lon="-1.5968420"/>
+    <wpt lat="50.8303080" lon="-1.5980880"/>
+    <wpt lat="50.8288380" lon="-1.5990170"/>
+    <wpt lat="50.8262370" lon="-1.6000800"/>
+    <wpt lat="50.8242170" lon="-1.6015550"/>
+    <wpt lat="50.8234480" lon="-1.5998540"/>
+    <wpt lat="50.8226490" lon="-1.5971120"/>
+    <wpt lat="50.8218610" lon="-1.5974100"/>
+    <wpt lat="50.8204390" lon="-1.5970890"/>
+    <wpt lat="50.8194140" lon="-1.5972220"/>
+    <wpt lat="50.8185440" lon="-1.5969380"/>
+    <wpt lat="50.8175640" lon="-1.5948220"/>
+    <wpt lat="50.8179470" lon="-1.5913620"/>
+    <wpt lat="50.8177310" lon="-1.5897810"/>
+    <wpt lat="50.8178780" lon="-1.5866980"/>
+    <wpt lat="50.8174530" lon="-1.5854520"/>
+    <wpt lat="50.8176560" lon="-1.5831180"/>
+    <wpt lat="50.8173460" lon="-1.5827460"/>
+    <wpt lat="50.8169660" lon="-1.5796900"/>
+    <wpt lat="50.8164570" lon="-1.5784640"/>
+    <wpt lat="50.8166980" lon="-1.5779080"/>
+    <wpt lat="50.8159790" lon="-1.5752550"/>
+    <wpt lat="50.8171020" lon="-1.5737060"/>
+    <wpt lat="50.8177560" lon="-1.5721160"/>
+    <wpt lat="50.8173580" lon="-1.5720280"/>
+    <wpt lat="50.8173460" lon="-1.5714900"/>
+    <wpt lat="50.8180410" lon="-1.5701150"/>
+    <wpt lat="50.8180480" lon="-1.5693610"/>
+    <wpt lat="50.8145050" lon="-1.5675480"/>
+    <wpt lat="50.8133320" lon="-1.5663380"/>
+    <wpt lat="50.8126530" lon="-1.5666520"/>
+    <wpt lat="50.8110200" lon="-1.5691110"/>
+    <trk>
+        <name>George, Dillon, Oren Saturday</name>
+        <trkseg>
+            <trkpt lat="50.8860740" lon="-1.6209940"/>
+            <trkpt lat="50.8852670" lon="-1.6190890"/>
+            <trkpt lat="50.8846080" lon="-1.6185110"/>
+            <trkpt lat="50.8838460" lon="-1.6182260"/>
+            <trkpt lat="50.8828740" lon="-1.6183580"/>
+            <trkpt lat="50.8815580" lon="-1.6176610"/>
+            <trkpt lat="50.8791410" lon="-1.6179300"/>
+            <trkpt lat="50.8781710" lon="-1.6184790"/>
+            <trkpt lat="50.8772010" lon="-1.6192780"/>
+            <trkpt lat="50.8761230" lon="-1.6192030"/>
+            <trkpt lat="50.8754720" lon="-1.6199140"/>
+            <trkpt lat="50.8746060" lon="-1.6203790"/>
+            <trkpt lat="50.8740030" lon="-1.6205500"/>
+            <trkpt lat="50.8734520" lon="-1.6209710"/>
+            <trkpt lat="50.8720370" lon="-1.6221480"/>
+            <trkpt lat="50.8715380" lon="-1.6222770"/>
+            <trkpt lat="50.8707470" lon="-1.6216170"/>
+            <trkpt lat="50.8692180" lon="-1.6202550"/>
+            <trkpt lat="50.8692110" lon="-1.6261270"/>
+            <trkpt lat="50.8680830" lon="-1.6255010"/>
+            <trkpt lat="50.8675260" lon="-1.6237150"/>
+            <trkpt lat="50.8664420" lon="-1.6217660"/>
+            <trkpt lat="50.8652020" lon="-1.6204430"/>
+            <trkpt lat="50.8640950" lon="-1.6183380"/>
+            <trkpt lat="50.8628820" lon="-1.6172230"/>
+            <trkpt lat="50.8618780" lon="-1.6157640"/>
+            <trkpt lat="50.8606880" lon="-1.6136490"/>
+            <trkpt lat="50.8593690" lon="-1.6121600"/>
+            <trkpt lat="50.8581820" lon="-1.6109620"/>
+            <trkpt lat="50.8567970" lon="-1.6097100"/>
+            <trkpt lat="50.8546930" lon="-1.6094770"/>
+            <trkpt lat="50.8532450" lon="-1.6090730"/>
+            <trkpt lat="50.8514540" lon="-1.6080880"/>
+            <trkpt lat="50.8502910" lon="-1.6063900"/>
+            <trkpt lat="50.8490000" lon="-1.6053600"/>
+            <trkpt lat="50.8478130" lon="-1.6044530"/>
+            <trkpt lat="50.8463220" lon="-1.6037520"/>
+            <trkpt lat="50.8443170" lon="-1.6017690"/>
+            <trkpt lat="50.8438420" lon="-1.6010650"/>
+            <trkpt lat="50.8433390" lon="-1.6001530"/>
+            <trkpt lat="50.8425700" lon="-1.5982440"/>
+            <trkpt lat="50.8421200" lon="-1.5973730"/>
+            <trkpt lat="50.8402580" lon="-1.5943510"/>
+            <trkpt lat="50.8394890" lon="-1.5925660"/>
+            <trkpt lat="50.8382740" lon="-1.5910360"/>
+            <trkpt lat="50.8374020" lon="-1.5897520"/>
+            <trkpt lat="50.8366350" lon="-1.5887590"/>
+            <trkpt lat="50.8362390" lon="-1.5883460"/>
+            <trkpt lat="50.8354770" lon="-1.5884770"/>
+            <trkpt lat="50.8339030" lon="-1.5905270"/>
+            <trkpt lat="50.8325960" lon="-1.5930370"/>
+            <trkpt lat="50.8312930" lon="-1.5964640"/>
+            <trkpt lat="50.8308730" lon="-1.5968420"/>
+            <trkpt lat="50.8303080" lon="-1.5980880"/>
+            <trkpt lat="50.8288380" lon="-1.5990170"/>
+            <trkpt lat="50.8273930" lon="-1.5994870"/>
+            <trkpt lat="50.8262370" lon="-1.6000800"/>
+            <trkpt lat="50.8242170" lon="-1.6015550"/>
+            <trkpt lat="50.8234480" lon="-1.5998540"/>
+            <trkpt lat="50.8226490" lon="-1.5971120"/>
+            <trkpt lat="50.8218610" lon="-1.5974100"/>
+            <trkpt lat="50.8204390" lon="-1.5970890"/>
+            <trkpt lat="50.8194140" lon="-1.5972220"/>
+            <trkpt lat="50.8185440" lon="-1.5969380"/>
+            <trkpt lat="50.8175640" lon="-1.5948220"/>
+            <trkpt lat="50.8176640" lon="-1.5932800"/>
+            <trkpt lat="50.8179470" lon="-1.5913620"/>
+            <trkpt lat="50.8177310" lon="-1.5897810"/>
+            <trkpt lat="50.8177520" lon="-1.5883240"/>
+            <trkpt lat="50.8178780" lon="-1.5866980"/>
+            <trkpt lat="50.8174530" lon="-1.5854520"/>
+            <trkpt lat="50.8176320" lon="-1.5837020"/>
+            <trkpt lat="50.8176560" lon="-1.5831180"/>
+            <trkpt lat="50.8173460" lon="-1.5827460"/>
+            <trkpt lat="50.8172170" lon="-1.5818710"/>
+            <trkpt lat="50.8171260" lon="-1.5808570"/>
+            <trkpt lat="50.8170460" lon="-1.5801500"/>
+            <trkpt lat="50.8169660" lon="-1.5796900"/>
+            <trkpt lat="50.8168780" lon="-1.5794440"/>
+            <trkpt lat="50.8167320" lon="-1.5792460"/>
+            <trkpt lat="50.8164570" lon="-1.5784640"/>
+            <trkpt lat="50.8166980" lon="-1.5779080"/>
+            <trkpt lat="50.8159790" lon="-1.5752550"/>
+            <trkpt lat="50.8162710" lon="-1.5749590"/>
+            <trkpt lat="50.8165900" lon="-1.5745560"/>
+            <trkpt lat="50.8167920" lon="-1.5741080"/>
+            <trkpt lat="50.8171020" lon="-1.5737060"/>
+            <trkpt lat="50.8174770" lon="-1.5727340"/>
+            <trkpt lat="50.8177560" lon="-1.5721160"/>
+            <trkpt lat="50.8173580" lon="-1.5720280"/>
+            <trkpt lat="50.8173460" lon="-1.5714900"/>
+            <trkpt lat="50.8176740" lon="-1.5709020"/>
+            <trkpt lat="50.8180410" lon="-1.5701150"/>
+            <trkpt lat="50.8180480" lon="-1.5693610"/>
+            <trkpt lat="50.8174440" lon="-1.5690750"/>
+            <trkpt lat="50.8167340" lon="-1.5686660"/>
+            <trkpt lat="50.8162080" lon="-1.5684400"/>
+            <trkpt lat="50.8155950" lon="-1.5681070"/>
+            <trkpt lat="50.8148650" lon="-1.5676370"/>
+            <trkpt lat="50.8145050" lon="-1.5675480"/>
+            <trkpt lat="50.8136050" lon="-1.5665050"/>
+            <trkpt lat="50.8133320" lon="-1.5663380"/>
+            <trkpt lat="50.8126530" lon="-1.5666520"/>
+            <trkpt lat="50.8120440" lon="-1.5673950"/>
+            <trkpt lat="50.8110200" lon="-1.5691110"/>
+            <extensions>
+                <gs:line>
+                    <gs:color>D40058</gs:color>
+                    <gs:opacity>0.3</gs:opacity>
+                    <gs:width>8.0</gs:width>
+                </gs:line>
+            </extensions>
+        </trkseg>
+    </trk>
+</gpx>

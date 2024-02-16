@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!./env/bin/python3
 
 import matplotlib.pyplot as pl
 import numpy as np
@@ -141,7 +141,7 @@ print("Retrieve Map")
 ## 18	some buildings, trees
 ## 19	local highway and crossing details
 ## 20	hundred	A mid-sized building
-ax.add_image(request, args.zoom)    # 5 = zoom level
+ax.add_image(request, int(args.zoom))    # 5 = zoom level
 
 if args.green  is not None:plot_waypoints(gpx_green,'green')
 if args.yellow is not None:plot_waypoints(gpx_yellow,'yellow')
